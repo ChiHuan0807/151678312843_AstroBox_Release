@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "151678312843",
+    "restype": "watchface",
+    "name": "熹光",
+    "description": "移植自 Xiaomi Watch 5 ，非盈利用途，版权归小米所有，如有侵权请联系删除",
+    "preview": [
+      "画板 1.png"
+    ],
+    "icon": "logo.png",
+    "cover": "画板 1.png",
+    "author": [
+      {
+        "name": "ChiHuan0807",
+        "bindABAccount": true
+      },
+      {
+        "name": "表盘移植自小米官方 非盈利用途 侵权请联系",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "S5_熹光.bin"
+    }
+  },
+  "ext": {}
+}
